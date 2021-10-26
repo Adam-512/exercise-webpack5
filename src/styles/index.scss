@@ -1,0 +1,6 @@
+@use "variables";
+@import './font.scss';
+body {
+  background-color: variables.$body;
+  color: var(--text);
+}
